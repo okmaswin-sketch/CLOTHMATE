@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hanger icon only (for adaptive icon foreground) -->
+  <path 
+    d="M128 164
+       C128 108 168 64 224 64
+       C280 64 320 108 320 164
+       M128 164
+       L128 324
+       M320 164
+       L320 324
+       M172 244
+       L284 244"
+    stroke="white"
+    stroke-width="32"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+</svg>
